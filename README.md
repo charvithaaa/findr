@@ -18,3 +18,6 @@ A full-stack job board with an application tracker built with Next.js 14, TypeSc
 ```bash
 npm install
 npm run dev
+```
+
+Open [http://localhost:3000](http://localhost:3000) in your browser.
